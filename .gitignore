@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+#Private files
+*.csv
+*.xlsx
+*.ipynb
+
+#log files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
