@@ -6,6 +6,7 @@ __pycache__/
 #Private files
 *.csv
 *.xlsx
+*.xls
 *.ipynb
 
 #log files
